@@ -2,7 +2,7 @@
 
 # Created By: Luke
 # Date: Feb 14, 2025
-# Perform basic math operators
+# Calculates area and perimeter of a rectangle
 import math
 
 # Adds math module in order to perform square root calculations
@@ -13,7 +13,7 @@ def main():
     print()
     print("The area is {}".format(6 * 10))
     # Area calculation
-    print("the perimeter is {}".format(2 * 16))
+    print("the perimeter is {}".format(2 * (10 + 6))
     # Perimeter calculation
 
 
